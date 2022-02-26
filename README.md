@@ -16,7 +16,7 @@ The website [ETQ](https://www.etq-amsterdam.com/) has a very nice and clean look
 ## My Website
 I would love to be able to create a website that presents all the stages of a project. It would be a picture uploading platform that enables people to see every stage of a project from start to finish and allows people to ask or give advice, encourage, and share ideas. 
 ## My Goals
-The Goal of the website is to let people show the whole process of a project. Let people see something that started as nothing and grew into something beautiful. Most of the time we just see the finished project, but this website would allow people to see what each step of the process looked like. The website would need to allow users to upload pictures and text. For now, I would like to show what my process of the website is. I would need to upload screenshots and descriptions to the website. The two biggest goals right now are to learn how to add pictures and how to add a comment section. 
+The Goal of the website is to let people show the whole process of a project. Let people see something that started as nothing and grew into something beautiful. Most of the time we just see the finished project, but this website would allow people to see what each step of the process looked like. The website would need to allow users to upload pictures and text. For now, I would like to show what my process of building the website is. I would need to upload screenshots and descriptions to the website. The two biggest goals right now are to learn how to add pictures and how to add a comment section. 
 
 # Timeline
 * Researching how to add images (2 days, 3/2)
