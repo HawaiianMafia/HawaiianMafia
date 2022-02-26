@@ -10,7 +10,7 @@ HawaiianMafia is currently a college student who has always wanted to learn code
  
 ## Inspiration 
 
-The website [ETQ](https://www.etq-amsterdam.com/) has a very nice and clean look. Not only does it look nice, but I love the moving pictures. I want to have something like this in my future website. [Push10] (https://www.push10.com/) also has moving elements. However, the elements are not just pictures, but also text. Push10 also has a menu button that I would like to put in my website. [Deepblue] (http://deepblue.com/) has a picture collage that would great to display different elements on a website. These elemenst could be pictures or even links. 
+The website [ETQ](https://www.etq-amsterdam.com/) has a very nice and clean look. Not only does it look nice, but I love the moving pictures. I want to have something like this in my future website. [Push10](https://www.push10.com/) also has moving elements. However, the elements are not just pictures, but also text. Push10 also has a menu button that I would like to put in my website. [Deepblue](http://deepblue.com/) has a picture collage that would great to display different elements on a website. These elemenst could be pictures or even links. 
 
 # My Website and My Goals
 ## My Website
